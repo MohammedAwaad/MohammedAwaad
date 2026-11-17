@@ -19,5 +19,7 @@ Red Hat Certified Architect (RHCA), RHCE, RHCSA, Red Hat Specialist in Security,
 **On this profile**
 
 * [sre-runbook-kit](https://github.com/MohammedAwaad/sre-runbook-kit): templates and Linux runbooks for running incidents well
+* [linux-triage](https://github.com/MohammedAwaad/linux-triage): the first five minutes on a broken Linux host, in one read only Python command
+* [sre-agent-skills](https://github.com/MohammedAwaad/sre-agent-skills): SRE skills for Claude Code and OpenAI Codex: postmortems, log triage, runbook automation, status updates
 
 📫 [LinkedIn](https://www.linkedin.com/in/mohamedaawwad)
